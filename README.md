@@ -16,3 +16,4 @@ Kaspa Improvement Proposals (KIPs) describe standard proposals for the Kaspa net
 | [14](kip-0014.md) | Consensus | The Crescendo Hardfork | Michael Sutton | Active |
 | [15](kip-0015.md) | Consensus | Canonical Transaction Ordering and Sequencing Commitments | Mike Zak, Ro Ma | Active |
 | [16](kip-0016.md) | Consensus | ZK Precompile Opcode | Alexander Safstrom | Implemented and activated in TN10 |
+| [20](kip-0020.md) | Consensus, Script Engine | Covenant IDs | Michael Sutton | Implemented and activated in TN10 |
